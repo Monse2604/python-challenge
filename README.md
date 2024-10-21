@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # python-challenge
 This is the homework for the Python module in the botcamp :)
+=======
+>>>>>>> c550ff449ab85aaa1cf565c0a45ca803c8323b0c
 import pandas as pd
 
 # Importar Archivo CSV
@@ -47,4 +50,7 @@ with open(output_path, 'w') as file:
 # Imprimir el análisis financiero en la terminal
 print(financial_analysis)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c550ff449ab85aaa1cf565c0a45ca803c8323b0c
