@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Asegúrate de que la ruta del archivo sea correcta
+# Importar Archivo CSV
 file_path = 'C:/Users/monse/assigment1/python-challenge/PyBank/Resources/budget_data.csv'
 
 # Cargar el archivo CSV usando pandas
