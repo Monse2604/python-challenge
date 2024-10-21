@@ -1,6 +1,11 @@
+<<<<<<< HEAD
+# python-challenge
+This is the homework for the Python module in the botcamp :)
+=======
+>>>>>>> c550ff449ab85aaa1cf565c0a45ca803c8323b0c
 import pandas as pd
 
-# Asegúrate de que la ruta del archivo sea correcta
+# Importar Archivo CSV
 file_path = 'C:/Users/monse/assigment1/python-challenge/PyBank/Resources/budget_data.csv'
 
 # Cargar el archivo CSV usando pandas
@@ -45,5 +50,7 @@ with open(output_path, 'w') as file:
 # Imprimir el análisis financiero en la terminal
 print(financial_analysis)
 
+<<<<<<< HEAD
 
-
+=======
+>>>>>>> c550ff449ab85aaa1cf565c0a45ca803c8323b0c
