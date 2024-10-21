@@ -44,3 +44,4 @@ with open(output_path, 'w') as file:
 
 # Imprimir el análisis financiero en la terminal
 print(financial_analysis)
+
